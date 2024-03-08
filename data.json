@@ -1,0 +1,54 @@
+{
+    "mouse": [
+        {
+            "productId":"1",
+            "brand": "Logitech G305",
+            "price": "$49.99",
+            "path": "./images/g305.png"
+        },
+        {
+            "productId":"2",
+            "brand": "Glorious Model O",
+            "price": "$79.99",
+            "path": "./images/modelO.png"
+        },
+        {
+            "productId":"3",
+            "brand": "Corsair Scimitar",
+            "price": "$79.99",
+            "path": "./images/scimitar.png"
+        },
+        {
+            "productId":"4",
+            "brand": "HyperX Pulsefire",
+            "price": "$79.99",
+            "path": "./images/pulsefire.png"
+        }
+    ],
+    "keyboard": [
+        {
+            "productId":"1",
+            "brand": "Steel Series Apex 3 TKL",
+            "price": "$44.99",
+            "path": "./images/apex3.png"
+        },
+        {
+            "productId":"2",
+            "brand": "HyperX Alloy Origins 60",
+            "price": "$79.99",
+            "path": "./images/alloy.png"
+        },
+        {
+            "productId":"3",
+            "brand": "8BitDo Retro Keyboard",
+            "price": "$99.99",
+            "path": "./images/retro.png"
+        },
+        {
+            "productId":"4",
+            "brand": "Redragon K631",
+            "price": "$67.99",
+            "path": "./images/k631.png"
+        }
+    ]
+  }
